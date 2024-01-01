@@ -44,8 +44,9 @@
   "prefer-stable": true,
   "repositories": [
     {
+      "name": "optimistdigital/nova-translations-loader",
       "type": "composer",
-      "url": "https://github.com/shanksimi/nova-multiselect"
+      "url": "https://github.com/shanksimi/nova-translations-loader"
     }
   ]
 }
