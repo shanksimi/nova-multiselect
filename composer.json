@@ -44,7 +44,7 @@
   "prefer-stable": true,
   "repositories": [
     {
-      "type": "path",
+      "type": "vcs",
       "url": "https://github.com/shanksimi/nova-translations-loader"
     }
   ]
