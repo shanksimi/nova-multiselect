@@ -45,7 +45,7 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "https://nova.laravel.com"
+      "url": "https://github.com/shanksimi/nova-multiselect"
     }
   ]
 }
